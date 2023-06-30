@@ -7,7 +7,7 @@ machine learning library.
  <h2>ANALYTICS:</h2>
 
 <h3>WordCloud</h3>
-![word](https://github.com/Gayatri-Shahane/Fake_News_Detection/assets/88731432/68edebcc-77d5-43da-90a6-feecd4ec2969)
+<img src="https://github.com/Gayatri-Shahane/Fake_News_Detection/assets/88731432/68edebcc-77d5-43da-90a6-feecd4ec2969"/>
 
 <h3>XG Boost Classifier</h3>
-![xg](https://github.com/Gayatri-Shahane/Fake_News_Detection/assets/88731432/5582c41b-2788-4a63-b86e-91dd21b0041e)
+<img src="https://github.com/Gayatri-Shahane/Fake_News_Detection/assets/88731432/5582c41b-2788-4a63-b86e-91dd21b0041e"/>
