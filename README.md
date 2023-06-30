@@ -1,4 +1,4 @@
- <h1 align="centre">Fake News Detection Model</h1>
+ <h1 align="center">Fake News Detection Model</h1>
 This python project of detecting fake news is conducted with the help of TfidfVectorizer & XGBoost Classifier.The TfidfVectorizer converts a collection of raw documents intoa matrix of TF-IDF features. XGBoost, which stands for Extreme Gradient Boosting, is a scalable, distributed gradient-boosted decision tree (GBDT)
 machine learning library.
 
